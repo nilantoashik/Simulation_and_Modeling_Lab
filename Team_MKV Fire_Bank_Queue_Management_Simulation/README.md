@@ -1,7 +1,7 @@
 # 🏦 Bank Queue Management Simulation  
 **Course Code:** CSE 413  
 **Course Title:** Simulation and Modeling Lab  
-**University Final Project**
+**Lab Final Project**
 
 ---
 
