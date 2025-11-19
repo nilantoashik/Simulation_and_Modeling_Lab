@@ -10,8 +10,8 @@
 | Member Name | Student ID |
 |-------------|------------|
 | Md. Rahmatullah Ashik | 0432220005101007 |
-| Rifat Jahan Promee | 0432220005101070 |
-| Rashedul Islam Jubayer | 0432220005101072 |
+| Rashedul Islam Jubayer | 0432220005101070 |
+| Rifat Jahan Promee | 0432220005101072 |
 
 ---
 
